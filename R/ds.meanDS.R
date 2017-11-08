@@ -36,7 +36,7 @@
 #'
 #' }
 
-ds.mean = function(x=NULL, type='combine', checks=FALSE, datasources=NULL) {
+ds.meanDS = function(x=NULL, type='combine', checks=FALSE, datasources=NULL) {
   # -- BASIC CHECKS -- #
   # if no opal login details are provided look for 'opal' objects in the enviroment
   if(is.null(datasources)) {
