@@ -35,6 +35,7 @@
 #'   datashield.logout(opals)
 #'
 #' }
+#' 
 
 ds.meanDS = function(x=NULL, type='combine', checks=FALSE, datasources=NULL) {
   # -- BASIC CHECKS -- #

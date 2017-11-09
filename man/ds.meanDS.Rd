@@ -50,6 +50,7 @@ It is a wrapper for the server side function.
   datashield.logout(opals)
 
 }
+
 }
 \seealso{
 \code{ds.quantileMean} to compute quantiles.
